@@ -6,7 +6,6 @@ class Mainclass {
     public static void main(String[] args) {
         String dogName;
         //String dogSays;
-        boolean result = true;
 
         System.out.print("Give a name to the dog: ");
         Scanner sc = new Scanner(System.in);
@@ -18,7 +17,7 @@ class Mainclass {
 
         System.out.print("What does a dog say: ");
         Scanner scan2 = new Scanner(System.in);
-        result = dog.speak(scan2);
+        dog.speak(scan2);
 
     }
 }
