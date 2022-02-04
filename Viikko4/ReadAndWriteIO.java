@@ -17,7 +17,6 @@ public class ReadAndWriteIO {
             }
             rf.close();
         } catch (IOException e) {
-            // TODO Auto-generated catch block
             e.printStackTrace();
         }
     }
@@ -34,7 +33,6 @@ public class ReadAndWriteIO {
             rf.close();
             wf.close();
         } catch (IOException e) {
-            // TODO Auto-generated catch block
             e.printStackTrace();
         }
 
