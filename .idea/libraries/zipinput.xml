@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="zipinput">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Viikko4/zipinput.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
