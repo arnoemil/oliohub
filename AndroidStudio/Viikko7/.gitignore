@@ -1,9 +1,10 @@
 *.iml
 .gradle
 .idea
+gradle
 build.gradle
 gradle.properties
-grardlew
+gradlew
 gradlew.bat
 settings.gradle
 /local.properties
@@ -17,3 +18,4 @@ settings.gradle
 .externalNativeBuild
 .cxx
 local.properties
+
